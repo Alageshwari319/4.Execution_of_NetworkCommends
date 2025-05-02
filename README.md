@@ -1,4 +1,4 @@
-![Screenshot (63)](https://github.com/user-attachments/assets/db134e92-7041-4922-ab04-242034c91e2d)# 4.Execution_of_NetworkCommands
+ 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
